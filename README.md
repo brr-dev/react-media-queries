@@ -1,3 +1,3 @@
-# @brr-dev/typescript-package-template
+# @brr-dev/react-media-queries
 
-A template repo for bundling TypeScript packages.
+A simple library to easily leverage React context for custom media query handling.
